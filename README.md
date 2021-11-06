@@ -5,4 +5,3 @@
 
 ![Archit's top lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=Archit404Error&theme=react&hide=PHP,Rich+Text+Format)
 ![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit404Error&theme=react)
-![Archit's pin stats](https://github-readme-stats.vercel.app/api/pin?username=Archit404Error&repo=Archit404Error&theme=react)
