@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I'm Archit ###
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Archit ###
 
 -  💻 I’m currently pursuing a Computer Science degree at Cornell University
 -  🔭 I'm passionate about discovering people's problems and creating products to solve them
