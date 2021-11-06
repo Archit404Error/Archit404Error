@@ -3,5 +3,5 @@
 -  💻 I’m currently pursuing a Computer Science degree at Cornell University
 -  🔭 I'm passionate about discovering people's problems and creating products to solve them
 
-![Archit's top lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=Archit404Error&theme=react&hide=PHP,Rich+Text+Format)
 ![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit404Error&theme=react)
+![Archit's top lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=Archit404Error&theme=react&hide=Rich+Text+Format)
