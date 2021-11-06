@@ -4,4 +4,4 @@
 -  🔭 I'm passionate about discovering people's problems and creating products to solve them
 
 ![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archit404Error&theme=react)
-![Archit's top lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=Archit404Error&theme=react&langs_count=3&hide=Jupyter+Notebook,Rich+Text+Format)
+![Archit's top lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=Archit404Error&theme=react&langs_count=3&hide=Jupyter+Notebook,Rich+Text+Format,PHP,HTML)
