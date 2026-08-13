@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" /> I'm Archit ###
 
--  💻 I recently graduated with a Computer Science degree from Cornell University
--  🤖 I'm passionate about creating technology that solves the world's most pressing issues.
--  Check out my <a href = "http://architmehta.me">personal website</a> to learn more about me and what I'm doing!
+-  💻 I'm currently CEO of <a href="https://stampmail.ai">Stamp (YC W25)</a>, the AI Secretary that handles your email and calendar for you.
+-  📊 I've previously worked at Stripe and Apple, and studied at Cornell University.
+-  🤖 I'm interested in training LLMs, understanding how to solve jagged intelligence, and making AI more human.
+-  You can learn more by visiting my <a href = "http://architmehta.me">personal website</a>!
